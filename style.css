@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
 body {
+  
   font-family: 'Gloock', serif;
+  background-color: beige;
 }
 /* Centers the text inside a div */
 div {
@@ -9,6 +11,13 @@ div {
 
 /* Sets a div with circular image */
 #pic {
+  margin-top: 50px;
   border-radius: 50%;
 }
 
+.card {
+  width: 30%;
+  margin-top: 50px;
+  margin: auto;
+  border: 3px grey solid;
+}
