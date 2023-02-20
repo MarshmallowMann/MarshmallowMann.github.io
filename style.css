@@ -1,0 +1,11 @@
+/* Centers the text inside a div */
+div {
+  text-align: center;
+}
+
+/* Sets a div with circular image */
+#pic {
+  border-radius: 50%;
+}
+
+
