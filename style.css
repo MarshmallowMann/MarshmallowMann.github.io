@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+body {
+  font-family: 'Gloock', serif;
+}
 /* Centers the text inside a div */
 div {
   text-align: center;
